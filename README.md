@@ -12,6 +12,7 @@ Time spent: **6** hours spent in total
     - Tested in version: Wordpress v4.2
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
+    //cannot get licecap to download, will update with gif
   - [ ] Steps to recreate: Leave a reply on wordpress and type in <script>while(10{alert(document.cookie);}</script>. Clicking submit       will reveal the bug.
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -22,6 +23,7 @@ Time spent: **6** hours spent in total
     - Tested in version: Wordpress v4.2.2
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
+  //cannot get licecap to download, will update with gif
   - [ ] Steps to recreate: upload an image with the name of a.jpeg, and then using the wordpress File system, add the image as an     attachment, and then navigate to the image and “view attachment page”. This will cause an error due to the bug we found!
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -32,6 +34,7 @@ Time spent: **6** hours spent in total
     - Tested in version:4.1
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
+  //cannot get licecap to download, will update with gif
   - [ ] Steps to recreate: Add(3) music files to wordpress, and in the scription of the file "word <script>alert(document.cookie);</script>". Try to post the media file as an attachment as an audio playlist. The playlist creation should cause the bug.
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
